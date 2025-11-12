@@ -10,8 +10,6 @@ Resposta do algoritmo após digitar os 10 numeros:
 
 Algoritmo 2, digitar nomes e organizar em ordem crescente e decrescente
 
-<img width="313" height="31" alt="image" src="https://github.com/user-attachments/assets/4fd0b83e-acab-48f3-9fd7-ad2a2968bfc8" />
-
 <img width="429" height="162" alt="image" src="https://github.com/user-attachments/assets/da6cf44f-2a3b-439e-a241-732234397466" />
 
 <img width="750" height="383" alt="image" src="https://github.com/user-attachments/assets/6751ad49-8568-495e-8fe6-2e603d3e1749" />
